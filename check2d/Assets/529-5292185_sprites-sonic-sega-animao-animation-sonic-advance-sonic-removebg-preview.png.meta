@@ -1,0 +1,2004 @@
+fileFormatVersion: 2
+guid: 095f7e5fd9563234182f5be73dd980aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6602781876988633437
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_0
+  - first:
+      213: -7832875139965637604
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_1
+  - first:
+      213: -3651410715470997685
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_2
+  - first:
+      213: -4723152035566189516
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_3
+  - first:
+      213: -7237062605992174257
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_4
+  - first:
+      213: -5077308748753014347
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_5
+  - first:
+      213: -811701655149349896
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_6
+  - first:
+      213: -9209285295100018895
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_7
+  - first:
+      213: 4315049641759347083
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_8
+  - first:
+      213: -5171183624437902977
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_9
+  - first:
+      213: -5448888934213887545
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_10
+  - first:
+      213: 4092697769361582277
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_11
+  - first:
+      213: -1613377281043037157
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_12
+  - first:
+      213: -814580800212796409
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_13
+  - first:
+      213: 7902667495423066468
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_14
+  - first:
+      213: 1806314505991889550
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_15
+  - first:
+      213: 2841582159212246393
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_16
+  - first:
+      213: -4640281980300062385
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_17
+  - first:
+      213: -3793556765835118369
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_18
+  - first:
+      213: -3762433900569919156
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_19
+  - first:
+      213: -2752212182035009308
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_20
+  - first:
+      213: 6570062273293208099
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_21
+  - first:
+      213: -6124147905955231828
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_22
+  - first:
+      213: -42963042129693664
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_23
+  - first:
+      213: 5556644537619724796
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_24
+  - first:
+      213: -3394737644603950614
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_25
+  - first:
+      213: -2521712445690753492
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_26
+  - first:
+      213: -8321280047000824238
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_27
+  - first:
+      213: -2084449541838017141
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_28
+  - first:
+      213: -5756144532789279809
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_29
+  - first:
+      213: -7274508670082438647
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_30
+  - first:
+      213: 5735847314052450289
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_31
+  - first:
+      213: -1067516871820509150
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_32
+  - first:
+      213: 954439887250366413
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_33
+  - first:
+      213: -1132625810938248297
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_34
+  - first:
+      213: 7412716271974999694
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_35
+  - first:
+      213: -6201364740621315206
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_36
+  - first:
+      213: 2704715313901317545
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_37
+  - first:
+      213: 8003459934400838649
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_38
+  - first:
+      213: 8941293196845454613
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_39
+  - first:
+      213: 1995975787743990023
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_40
+  - first:
+      213: -1608949126969286701
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_41
+  - first:
+      213: -7006893393665200913
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_42
+  - first:
+      213: -4782085441343526760
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_43
+  - first:
+      213: 3089298929665283228
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_44
+  - first:
+      213: 3526604207391305877
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_45
+  - first:
+      213: -1651801696756065366
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_46
+  - first:
+      213: 4771967785073175486
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_47
+  - first:
+      213: 254996439161113538
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_48
+  - first:
+      213: 285024019697847654
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_49
+  - first:
+      213: 4271744093477259993
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_50
+  - first:
+      213: -1443257770072249147
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_51
+  - first:
+      213: -1703875136321973882
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_52
+  - first:
+      213: 2002334989465911647
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_53
+  - first:
+      213: 2778875146107386250
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_54
+  - first:
+      213: -2199732075760152192
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_55
+  - first:
+      213: 7434961675760385509
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_56
+  - first:
+      213: 1110045786992333442
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_57
+  - first:
+      213: 5455408352544998665
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_58
+  - first:
+      213: -3665841347864260628
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_59
+  - first:
+      213: -2373194677021053150
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_60
+  - first:
+      213: -6530408584771867059
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_61
+  - first:
+      213: 4844382691578254498
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_62
+  - first:
+      213: 2405616537444647840
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_63
+  - first:
+      213: -5170161558986255187
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_64
+  - first:
+      213: -276854871139126231
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_65
+  - first:
+      213: 1813166801870278327
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_66
+  - first:
+      213: 3366478581789959312
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_67
+  - first:
+      213: -5925117969602585962
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_68
+  - first:
+      213: -2041060451012662049
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_69
+  - first:
+      213: -8318331281391129657
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_70
+  - first:
+      213: -8392374853818652519
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_71
+  - first:
+      213: 8464372621410745703
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_72
+  - first:
+      213: -875305522579900857
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_73
+  - first:
+      213: 6020736623753078614
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_74
+  - first:
+      213: -969090948009316074
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_75
+  - first:
+      213: 3494596924965814569
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_76
+  - first:
+      213: 4691069607382215512
+    second: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 469
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae94bcadd43e54a0800000000000000
+      internalID: -6602781876988633437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 469
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c2c508f890c4390800000000000000
+      internalID: -7832875139965637604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 469
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47db4fdc45935dc0800000000000000
+      internalID: -3651410715470997685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 469
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4340aeb7f3ef37eb0800000000000000
+      internalID: -4723152035566189516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 469
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dd29847e9c09b90800000000000000
+      internalID: -7237062605992174257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 470
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f79ff796c989b0800000000000000
+      internalID: -5077308748753014347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 469
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f93d25a14cb4f0800000000000000
+      internalID: -811701655149349896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 469
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fb55621db023080800000000000000
+      internalID: -9209285295100018895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 469
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811e3d79c222eb30800000000000000
+      internalID: 4315049641759347083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 425
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71df0544e34c38b0800000000000000
+      internalID: -5171183624437902977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 425
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9df9f3268a164b0800000000000000
+      internalID: -5448888934213887545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 426
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8a4dbefee2cc830800000000000000
+      internalID: 4092697769361582277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 426
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b148eb239e12c99e0800000000000000
+      internalID: -1613377281043037157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 423
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c767af31702b4f0800000000000000
+      internalID: -814580800212796409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 423
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c7ba873aebad60800000000000000
+      internalID: 7902667495423066468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 423
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8228421971511910800000000000000
+      internalID: 1806314505991889550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 368
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975feef1be35f6720800000000000000
+      internalID: 2841582159212246393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 368
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41919acf186a9fb0800000000000000
+      internalID: -4640281980300062385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd83e1978349a5bc0800000000000000
+      internalID: -3793556765835118369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 368
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4184a93d4629cbc0800000000000000
+      internalID: -3762433900569919156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 369
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0fc4f2a9d2ec9d0800000000000000
+      internalID: -2752212182035009308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 368
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a46dfe3dc8d2b50800000000000000
+      internalID: 6570062273293208099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 369
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca706993de7a20ba0800000000000000
+      internalID: -6124147905955231828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 373
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b36f375d576ff0800000000000000
+      internalID: -42963042129693664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 373
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf930ff34ca2d1d40800000000000000
+      internalID: 5556644537619724796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 321
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae93cbb291873e0d0800000000000000
+      internalID: -3394737644603950614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ecbe824e3110dd0800000000000000
+      internalID: -2521712445690753492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 320
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25658f1a2efd48c80800000000000000
+      internalID: -8321280047000824238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 320
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de4828f2c8213e0800000000000000
+      internalID: -2084449541838017141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 320
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c9477b011e10b0800000000000000
+      internalID: -5756144532789279809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 320
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aac3418e0cb0b90800000000000000
+      internalID: -7274508670082438647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 320
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f789f70eb2d99f40800000000000000
+      internalID: 5735847314052450289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 272
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220076f9f0b6f21f0800000000000000
+      internalID: -1067516871820509150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 273
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9507450ade3d00800000000000000
+      internalID: 954439887250366413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 272
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793469b63da1840f0800000000000000
+      internalID: -1132625810938248297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 272
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e3d3dc224fd660800000000000000
+      internalID: 7412716271974999694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 273
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7352a8ef9350f9a0800000000000000
+      internalID: -6201364740621315206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 272
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada5af6f34198520800000000000000
+      internalID: 2704715313901317545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 272
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb780cf760021f60800000000000000
+      internalID: 8003459934400838649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 272
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515179e1acad51c70800000000000000
+      internalID: 8941293196845454613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701d2c0676123bb10800000000000000
+      internalID: 1995975787743990023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 224
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df12592b4ddba9e0800000000000000
+      internalID: -1608949126969286701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 224
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feced83259382ce90800000000000000
+      internalID: -7006893393665200913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 224
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e62fa0ae92adb0800000000000000
+      internalID: -4782085441343526760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 224
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9491bb32056fda20800000000000000
+      internalID: 3089298929665283228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 225
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590f4f487d301f030800000000000000
+      internalID: 3526604207391305877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 226
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab9771cb1f9319e0800000000000000
+      internalID: -1651801696756065366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 225
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe4e4ea6f693240800000000000000
+      internalID: 4771967785073175486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 174
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb003f09ede98300800000000000000
+      internalID: 254996439161113538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 174
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d4b86f5db94f300800000000000000
+      internalID: 285024019697847654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 175
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dac51fce98484b30800000000000000
+      internalID: 4271744093477259993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 178
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc658f64b488fbe0800000000000000
+      internalID: -1443257770072249147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 177
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68198ed479e9a58e0800000000000000
+      internalID: -1703875136321973882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 178
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5183786019b9cb10800000000000000
+      internalID: 2002334989465911647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 174
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8974e6e83c809620800000000000000
+      internalID: 2778875146107386250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 177
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081984fe45bf871e0800000000000000
+      internalID: -2199732075760152192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 121
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed3752804a4e2760800000000000000
+      internalID: 7434961675760385509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 121
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282d81213cca76f00800000000000000
+      internalID: 1110045786992333442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 121
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c42e1ef085bb40800000000000000
+      internalID: 5455408352544998665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 121
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef8c9177b0502dc0800000000000000
+      internalID: -3665841347864260628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 123
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fef45d308b01fd0800000000000000
+      internalID: -2373194677021053150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 123
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee282edf35f55a0800000000000000
+      internalID: -6530408584771867059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 122
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4929f2464ba3340800000000000000
+      internalID: 4844382691578254498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 122
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3813cce77726120800000000000000
+      internalID: 2405616537444647840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 122
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da49e3d6475ef38b0800000000000000
+      internalID: -5170161558986255187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247a6726f9682cf0800000000000000
+      internalID: -276854871139126231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 74
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be42088999a92910800000000000000
+      internalID: 1813166801870278327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0942d8b0f6228be20800000000000000
+      internalID: 3366478581789959312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 74
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69add896990c5cda0800000000000000
+      internalID: -5925117969602585962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 74
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcaa447552bca3e0800000000000000
+      internalID: -2041060451012662049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 74
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb69a0a5c95f8c80800000000000000
+      internalID: -8318331281391129657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 74
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998e730098b488b80800000000000000
+      internalID: -8392374853818652519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 21
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dbab19d0e777570800000000000000
+      internalID: 8464372621410745703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 21
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ffa8c34a4ad3f0800000000000000
+      internalID: -875305522579900857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 21
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657acf06f04fd8350800000000000000
+      internalID: 6020736623753078614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 21
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611bbd0dae81d82f0800000000000000
+      internalID: -969090948009316074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 21
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92182c9536d4f7030800000000000000
+      internalID: 3494596924965814569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 529-5292185_sprites-sonic-sega-animao-animation-sonic-advance-sonic-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 21
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85be5ac14f60a1140800000000000000
+      internalID: 4691069607382215512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
